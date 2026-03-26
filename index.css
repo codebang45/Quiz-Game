@@ -69,11 +69,15 @@ body {
   margin-bottom: 10px;
 }
 
-.answers-container {
+.answer-container {
   display: flex;
   flex-direction: column;
   gap: 10px;
   margin-bottom: 25px;
+}
+
+.answer-btn {
+  width: 100%;
 }
 
 .answer-btn {
